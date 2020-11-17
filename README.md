@@ -15,8 +15,11 @@
 
 2. 아래와 같은 방법으로 실행합니다.
 ```
+# 가상환경 구축
 pipenv shell
 pipenv install
+
+# 코드 실행
 python bible2ppt.py
 ```
 
